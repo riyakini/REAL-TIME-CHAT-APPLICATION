@@ -38,7 +38,7 @@ Through this project, I aimed to enhance my skills in:
 
 ✅ Real-time communication using Socket.io
 
-✅ Frontend development with React.js
+✅ Frontend development with html & EJS
 
 ✅ Backend API design with Node.js and Express.js
 
